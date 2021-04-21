@@ -1,0 +1,13 @@
+this is new text-based file so we can work together
+you can add what ever you want on this text, and will know with the help of GIT
+
+these are the activities i do everyday:
+
+i wake up
+take a walk
+have a break fast 
+do my homeworks
+study
+sleep
+
+what about you?
